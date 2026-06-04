@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hi , Iam Faraha Thabassum 👋
+MERN Stack Developer
 
+## Skills
+-Java
+-JavaScript
+-React.js
+-Node.js
+-Express.js
+-MongoDB
+-Git & Github
+
+##Current Goals
+-Contribute to Open Source
+-Prepare for GSoC 2027
+-Build more Full Stack Projects
+
+##Projects
+-FlashPortal-A Learn and test platform
 <!--
 **faratabassum09-a11y/faratabassum09-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
