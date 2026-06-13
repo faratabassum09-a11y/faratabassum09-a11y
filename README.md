@@ -1,34 +1,21 @@
-## Hi , Iam Faraha Thabassum 👋
-MERN Stack Developer
+## Hi, I'm Faraha Thabassum 👋
+
+Computer Science Student | Full Stack Developer | Open Source Contributor
 
 ## Skills
--Java
--JavaScript
--React.js
--Node.js
--Express.js
--MongoDB
--Git & Github
+- JavaScript, Node.js, Express.js, MongoDB
+- HTML5, CSS3, Bootstrap, EJS
+- Git, GitHub, REST APIs, MVC Architecture
 
-##Current Goals
--Contribute to Open Source
--Prepare for GSoC 2027
--Build more Full Stack Projects
+## Projects
+- **Flashcard LMS** — [Live](https://flashcard-lms.onrender.com) | Full-stack LMS with MVC, role-based auth, cron jobs, PDF reports
+- **LuxeNest** — [Live](https://luxenest-gwil.onrender.com) | Airbnb-inspired rental platform with Cloudinary
 
-##Projects
--FlashPortal-A Learn and test platform
--LuxeNest-A airbnb clone 
-<!--
-**faratabassum09-a11y/faratabassum09-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open Source
+- Active contributor to **Public Lab (plots2)**
+- Opened PR #11879 — fixing embed view links — GSoC 2027 aspirant
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- GSoC 2027
+- 200+ LeetCode problems
+- More open source contributions
