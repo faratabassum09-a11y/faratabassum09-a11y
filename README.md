@@ -1,21 +1,27 @@
-## Hi, I'm Faraha Thabassum 👋
+# Hi, I'm Faraha Thabassum 👋
 
 Computer Science Student | Full Stack Developer | Open Source Contributor
 
-## Skills
+## 🛠️ Skills
 - JavaScript, Node.js, Express.js, MongoDB
 - HTML5, CSS3, Bootstrap, EJS
 - Git, GitHub, REST APIs, MVC Architecture
 
-## Projects
-- **Flashcard LMS** — [Live](https://flashcard-lms.onrender.com) | Full-stack LMS with MVC, role-based auth, cron jobs, PDF reports
-- **LuxeNest** — [Live](https://luxenest-gwil.onrender.com) | Airbnb-inspired rental platform with Cloudinary
+## 🚀 Projects
+- **Flashcard LMS** — [Live](https://flashcard-lms.onrender.com/) | Full-stack LMS with MVC, role-based auth, cron jobs, PDF reports
+- **LuxeNest** — [Live](https://luxenest-gwil.onrender.com/) | Airbnb-inspired rental platform with Cloudinary
 
-## Open Source
+## 🌍 Open Source
 - Active contributor to **Public Lab (plots2)**
-- Opened PR #11879 — fixing embed view links — GSoC 2027 aspirant
+- PR #11879 — fixing embed view links — GSoC 2027 aspirant
 
-## Current Goals
-- GSoC 2027
-- 200+ LeetCode problems
-- More open source contributions
+## 🏆 Achievements
+- 🌍 Open Source Contributor — Public Lab PR #11879
+- 📝 Registered — Amazon WoW 2026
+- 📝 Registered — Amazon ML Summer School 2026
+- 🏅 Applied — Samsung Solve for Tomorrow 2026
+
+## 🎯 Current Goals
+- GSoC 2027 🎯
+- 200+ LeetCode problems 📊
+- More open source contributions 🌍
