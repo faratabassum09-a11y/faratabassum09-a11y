@@ -17,10 +17,6 @@ B.Tech CSE @ Institute of Aeronautical Engineering, Hyderabad · CGPA 9.2/10.0
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=faratabassum09-a11y&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faratabassum09-a11y&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
@@ -119,14 +115,6 @@ Componentized React and Tailwind CSS frontend with full-stack form validation an
 - ☕ **Java Programming Certification** — Coursera & Infosys Springboard *(2025)*
 - 💡 **Design Thinking Toolkit Training** — Samsung Solve for Tomorrow India *(Jun 2026)*
 - 🌍 **Open Source Contributor** — Sugar Labs (Music Blocks), GSoC 2027 target organization
-
----
-
-## 📈 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faratabassum09-a11y&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
-</p>
 
 ---
 
