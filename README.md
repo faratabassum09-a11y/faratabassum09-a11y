@@ -19,7 +19,7 @@ I build full-stack products end to end with the **MERN stack** — not tutorial 
 
 - 🔭 Building production features for a global ed-tech platform at **MySoulSchool**
 - 🌱 Contributing to **Sugar Labs (Music Blocks)**, working toward **GSoC 2027**
-- 🎯 Practicing **DSA and system design** for competitive programming and interviews
+- 🎯 Practicing **DSA ** for competitive programming and interviews
 - 💬 Comfortable with **React, Node.js, Socket.IO, and the Gemini API**
 
 <br>
