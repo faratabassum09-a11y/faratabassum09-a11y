@@ -1,45 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:4F7CFF,100:00B4D8&height=210&section=header&text=Hi%2C%20I'm%20Faraha%20Thabassum%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20GSoC%202027&descAlignY=63&descSize=16" width="100%"/>
+# 👋 Hi, I'm Faraha Thabassum
 
-### Full Stack Developer · MERN · Open Source
+### Full Stack Developer · MERN · Open Source Contributor
 
 **B.Tech CSE @ Institute of Aeronautical Engineering, Hyderabad**
 **CGPA 9.2/10 · Class of 2028**
 
-<br/>
+<br>
 
 <a href="https://linkedin.com/in/faraa2803">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/faratabassum09-a11y">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Fara2803/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 &nbsp;
 <a href="mailto:fara.tabassum09@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=faratabassum09-a11y&color=6C63FF&style=flat-square&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=faratabassum09-a11y&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Faraha Thabassum
+## 👩‍💻 About Me
 
-I'm a **Computer Science student and Full Stack Developer** who enjoys building products that solve real problems.
+I'm **Faraha Thabassum**, a Computer Science student and **Full Stack Developer** who enjoys turning ideas into real-world products.
 
-My primary focus is the **MERN stack**, with hands-on experience in **REST APIs, authentication, real-time applications, AI integrations, accessibility, and security**.
+I primarily work with the **MERN stack** and enjoy building systems involving **REST APIs, authentication, real-time communication, AI integrations, accessibility, security, and databases**.
 
-I care about more than just making an application work — I like understanding **why it works, how it scales, and how it can be made better**.
+I believe good engineering is more than making something work — it's about making it **reliable, maintainable, accessible, and useful**.
 
 ### Currently
 
@@ -47,15 +47,15 @@ I care about more than just making an application work — I like understanding 
 * 🌍 **Open Source Contributor @ Sugar Labs — Music Blocks**
 * 🚀 Preparing for **GSoC 2027**
 * 🧠 Strengthening **DSA & problem solving**
-* ⚡ Building with **React, Node.js, Express, MongoDB, Socket.IO & Gemini API**
+* ⚡ Building with **React · Node.js · Express · MongoDB · Socket.IO · Gemini API**
 
 > **Build. Contribute. Learn. Repeat.**
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🌐 Full Stack Developer Intern · MySoulSchool
+## 🌐 Full Stack Developer Intern — MySoulSchool
 
 **My Soul Growth Co.** · `Jul 2026 – Present` · Remote
 
@@ -68,7 +68,7 @@ Building production features for a global ed-tech platform.
 
 ---
 
-### 🌍 Open Source Contributor · Sugar Labs
+## 🌍 Open Source Contributor — Sugar Labs
 
 **Music Blocks** · `Jun 2026 – Present`
 
@@ -83,28 +83,26 @@ Contributing to an established open-source educational project while working tow
 
 ---
 
-# 🚀 Selected Projects
-
-> A few things I've built to explore real-world engineering problems.
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 💬 Nexus Chat
+## 💬 Nexus Chat
 
 **Real-time AI-powered messaging platform**
 
 <a href="https://nexus-chat-silk.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Nexus Chat Live Demo"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 A full-stack messaging application combining **MERN + Socket.IO + Gemini AI**.
 
-**Highlights**
+### Highlights
 
 * ⚡ Real-time messaging
 * 🤖 Gemini-powered smart replies
@@ -114,33 +112,37 @@ A full-stack messaging application combining **MERN + Socket.IO + Gemini AI**.
 * 🔐 Google OAuth 2.0 + JWT
 * ☁️ Cloudinary file sharing
 
-`React` `Redux Toolkit` `Node.js`
-`Express` `MongoDB` `Socket.IO` `Gemini API`
+**Tech**
+
+`React` `Redux Toolkit` `Node.js` `Express`
+`MongoDB` `Socket.IO` `Gemini API`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎓 Flashcard LMS
+## 🎓 Flashcard LMS
 
 **Automated Learning Management System**
 
 <a href="https://flashcard-lms.onrender.com">
-<img src="https://img.shields.io/badge/Live%20Demo-2D9CDB?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-2D9CDB?style=for-the-badge&logo=render&logoColor=white" alt="Flashcard LMS Live Demo"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 MVC-based LMS focused on **automated assessment and reporting**.
 
-**Highlights**
+### Highlights
 
-* 🔐 Role-based authentication
+* 🔐 Passport.js role-based authentication
 * ⏱️ Cron-driven automated testing
 * 🔀 Question randomization
 * 📝 Keyword-based evaluation
 * 📊 Excel bulk onboarding
 * 📄 Automated PDF reports
+
+**Tech**
 
 `Node.js` `Express` `MongoDB`
 `Passport.js` `node-cron` `PDFKit` `SheetJS`
@@ -153,17 +155,19 @@ MVC-based LMS focused on **automated assessment and reporting**.
 
 <td width="50%" valign="top">
 
-### 🏠 LuxeNest
+## 🏠 LuxeNest
 
-**Property Rental Marketplace**
+**Full-stack property rental marketplace**
 
 <a href="https://luxenest-gwil.onrender.com">
-<img src="https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-6C63FF?style=for-the-badge&logo=render&logoColor=white" alt="LuxeNest Live Demo"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-Full-stack property marketplace with listing management, reviews, authorization, and cloud media storage.
+Property marketplace featuring listing management, reviews, role-scoped authorization, and cloud media storage.
+
+**Tech**
 
 `Node.js` `Express` `MongoDB`
 `Cloudinary` `Bootstrap`
@@ -172,17 +176,19 @@ Full-stack property marketplace with listing management, reviews, authorization,
 
 <td width="50%" valign="top">
 
-### 🤖 AI & Robotics Workshop
+## 🤖 AI & Robotics Workshop
 
 **Full-stack event platform**
 
 <a href="https://ai-robotics-workshop-landing.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-2D9CDB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-2D9CDB?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Robotics Workshop Live Demo"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 Componentized React frontend backed by an Express REST API with validation, loading states, and optional MongoDB persistence.
+
+**Tech**
 
 `React` `Tailwind CSS`
 `Express.js` `MongoDB`
@@ -194,47 +200,47 @@ Componentized React frontend backed by an Express REST API with validation, load
 
 ---
 
-# 🧰 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,socketio,git,github,vercel,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,socketio,git,github,vercel,postman&theme=dark" alt="Tech Stack"/>
 
 </div>
 
-<br/>
+<br>
 
-| Area                | Technologies                                         |
-| :------------------ | :--------------------------------------------------- |
-| **Languages**       | Java, JavaScript                                     |
-| **Frontend**        | React, Redux Toolkit, Tailwind CSS, Bootstrap        |
-| **Backend**         | Node.js, Express.js, REST APIs                       |
-| **Database**        | MongoDB, Mongoose                                    |
-| **Real-time**       | Socket.IO                                            |
-| **AI**              | Google Gemini API                                    |
-| **Authentication**  | JWT, Google OAuth 2.0, Passport.js                   |
-| **Cloud & Tools**   | Cloudinary, Git, GitHub, Vercel, Postman             |
-| **CS Fundamentals** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+| Area               | Technologies                                         |
+| :----------------- | :--------------------------------------------------- |
+| **Languages**      | Java, JavaScript                                     |
+| **Frontend**       | React, Redux Toolkit, Tailwind CSS, Bootstrap        |
+| **Backend**        | Node.js, Express.js, REST APIs                       |
+| **Database**       | MongoDB, Mongoose                                    |
+| **Real-time**      | Socket.IO                                            |
+| **AI**             | Google Gemini API                                    |
+| **Authentication** | JWT, Google OAuth 2.0, Passport.js                   |
+| **Cloud & Tools**  | Cloudinary, Git, GitHub, Vercel, Postman             |
+| **Core CS**        | DSA, OOP, DBMS, Operating Systems, Computer Networks |
 
 ---
 
 # 🌍 Open Source
 
-### Sugar Labs · Music Blocks
+## Sugar Labs · Music Blocks
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/3%20Merged%20PRs-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security%20%26%20Accessibility-2D9CDB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GSoC%202027-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3%20Merged%20PRs-6C63FF?style=for-the-badge" alt="3 merged PRs"/>
+<img src="https://img.shields.io/badge/Security%20%26%20Accessibility-2D9CDB?style=for-the-badge" alt="Security and accessibility"/>
+<img src="https://img.shields.io/badge/GSoC%202027-00B4D8?style=for-the-badge" alt="GSoC 2027"/>
 
 </div>
 
-<br/>
+<br>
 
-My open-source work currently focuses on **accessibility, security, keyboard interaction, and frontend behavior**.
+My open-source contributions currently focus on **accessibility, security, keyboard interaction, and frontend behavior**.
 
-**What I've contributed:**
+### Contributions
 
 * ⌨️ Keyboard shortcut implementation
 * ♿ Accessibility improvements
@@ -261,39 +267,41 @@ My open-source work currently focuses on **accessibility, security, keyboard int
 
 # 🎓 Education
 
-| Institution                                          | Program            |      Score      |        Year       |
-| :--------------------------------------------------- | :----------------- | :-------------: | :---------------: |
-| **Institute of Aeronautical Engineering, Hyderabad** | B.Tech — CSE       |  **9.2 / 10.0** | Expected May 2028 |
-| **Alphores Junior College**                          | Intermediate — MPC | **9.79 / 10.0** |        2022       |
-| **Mims Play and High School**                        | SSC                | **10.0 / 10.0** |        2020       |
+| Institution                                          | Program            |       Score       |        Year       |
+| :--------------------------------------------------- | :----------------- | :---------------: | :---------------: |
+| **Institute of Aeronautical Engineering, Hyderabad** | B.Tech — CSE       | 🏆 **9.2 / 10.0** | Expected May 2028 |
+| **Alphores Junior College**                          | Intermediate — MPC |  **9.79 / 10.0**  |        2022       |
+| **Mims Play and High School**                        | SSC                |  **10.0 / 10.0**  |        2020       |
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=faratabassum09-a11y&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=2D9CDB&fire=6C63FF&currStreakLabel=FFFFFF" height="180"/>
+<img src="https://streak-stats.demolab.com?user=faratabassum09-a11y&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=2D9CDB&fire=6C63FF&currStreakLabel=FFFFFF" height="180" alt="GitHub streak"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faratabassum09-a11y&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=2D9CDB&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faratabassum09-a11y&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=2D9CDB&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-# 🎯 What I'm Working Toward
+# 🎯 Current Focus
 
-```text
-Full Stack Engineering    ████████████████████
-Open Source               ██████████████████░░
-DSA & Problem Solving     ████████████████░░░░
-Backend Engineering       ███████████████░░░░░
-GSoC 2027                 ██████████████████░░
-```
+<div align="center">
 
-**Next:** Become a stronger engineer by building production software, contributing upstream, and solving increasingly difficult problems.
+| Focus                         | Goal                                   |
+| :---------------------------- | :------------------------------------- |
+| 💻 **Full Stack Engineering** | Build production-grade applications    |
+| 🌍 **Open Source**            | Make meaningful upstream contributions |
+| 🚀 **GSoC 2027**              | Grow as an open-source contributor     |
+| 🧠 **DSA**                    | Become a stronger problem solver       |
+| ⚙️ **Backend Engineering**    | Learn scalable system design           |
+
+</div>
 
 ---
 
@@ -301,30 +309,24 @@ GSoC 2027                 ██████████████████
 
 <div align="center">
 
-### Interested in building something meaningful?
+### Interested in Full Stack Development, Open Source, GSoC, or building something interesting?
 
-I'm open to conversations around:
-
-**Full Stack Development · Open Source · GSoC · Hackathons · Collaboration**
-
-<br/>
+<br>
 
 <a href="mailto:fara.tabassum09@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📩%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/faraa2803">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/faratabassum09-a11y">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-**Thanks for visiting! 💜**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:4F7CFF,100:6C63FF&height=110&section=footer" width="100%"/>
+**Thanks for visiting my profile! 💜**
 
 </div>
