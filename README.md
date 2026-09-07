@@ -140,16 +140,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faratabassum09-a11y&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faratabassum09-a11y&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faratabassum09-a11y&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faratabassum09-a11y&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
