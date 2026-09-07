@@ -152,10 +152,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=faratabassum09-a11y&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
-## ⚡ LeetCode Stats
-
-
-
 ---
 
 ## 📫 Connect with Me
