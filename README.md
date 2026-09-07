@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Faraha Thabassum</h1>
+
+<!-- MAIN TYPING LINE (Removed Accessibility Advocate & India) -->
 <h3 align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;Accessibility+Advocate+from+India+%F0%9F%87%AE%F0%9F%87%B3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;Accessibility+Advocate+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer" alt="Typing SVG" />
 </h3>
+
+<!-- 🔽 YOUR NEW SUBLINE (Static, Tech-Focused) -->
+<h4 align="center">
+  🚀 Building scalable web apps with React, Node.js, and Cloud technologies
+</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile">
