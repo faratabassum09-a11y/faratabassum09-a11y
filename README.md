@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/faraa2803"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/faratabassum09-a11y"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/Fara2803"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/faratabahg8x"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+
+ 
   <a href="mailto:fara.tabassum09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -156,11 +156,7 @@
 
 ## ⚡ LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/Fara2803" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Fara2803?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+
 
 ---
 
@@ -169,8 +165,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/faraa2803"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/faratabassum09-a11y"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/Fara2803"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/faratabahg8x"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+
+  
   <a href="mailto:fara.tabassum09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
