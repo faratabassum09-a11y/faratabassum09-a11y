@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm Faraha Thabassum</h1>
-<h3 align="center">A passionate Full Stack Developer & Accessibility Advocate from India 🇮🇳</h3>
+<h3 align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;Accessibility+Advocate+from+India+%F0%9F%87%AE%F0%9F%87%B3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;Accessibility+Advocate+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Accessibility+Advocate;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/faratabassum09-a11y">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/faraa2803"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/faratabassum09-a11y"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:fara.tabassum09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faratabassum09-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=faratabassum09-a11y&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
