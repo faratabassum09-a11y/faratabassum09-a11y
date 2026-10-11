@@ -33,7 +33,6 @@
 - 🔭 I’m currently a **Full Stack Developer Intern** at **MySoulSchool** (Remote) and an **Open Source Contributor** at **Sugar Labs (Music Blocks)**, preparing for **Google Summer of Code 2027**.
 - 🌱 I’m deeply passionate about **MERN stack**, **real-time applications**, and **web accessibility** (a11y).
 - 👯 I’m looking to collaborate on **open-source projects**, especially those focusing on education, accessibility, and community building.
-- 💬 Ask me about **React, Node.js, MongoDB, Socket.IO, and accessibility best practices**.
 - 📫 How to reach me: **fara.tabassum09@gmail.com**
 - ⚡ Fun fact: I love solving algorithmic puzzles and contributing to meaningful open-source projects.
 
