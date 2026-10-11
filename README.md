@@ -75,12 +75,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Core CS
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Computer Networks](https://img.shields.io/badge/CN-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 ---
 
